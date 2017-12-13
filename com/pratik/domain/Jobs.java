@@ -6,6 +6,7 @@ import javax.persistence.Embeddable;
 import org.hibernate.annotations.Type;
 
 @Embeddable
+
 public class Jobs {
 	private String Dsgn;
 	private float sal;
